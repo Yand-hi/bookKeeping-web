@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookKeeping-web/static/css/main.22ceb9d4.css",
+    "main.js": "/bookKeeping-web/static/js/main.e7f5fba2.js",
+    "index.html": "/bookKeeping-web/index.html",
+    "main.22ceb9d4.css.map": "/bookKeeping-web/static/css/main.22ceb9d4.css.map",
+    "main.e7f5fba2.js.map": "/bookKeeping-web/static/js/main.e7f5fba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ceb9d4.css",
+    "static/js/main.e7f5fba2.js"
+  ]
+}
